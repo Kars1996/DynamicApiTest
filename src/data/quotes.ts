@@ -669,4 +669,2352 @@ export const quotesConst: quoteProp[] = [
         quote: "Success usually comes to those who are too busy to be looking for it.",
         author: "Henry David Thoreau",
     },
+    {
+        quote: "Success is not the absence of failure; it's the persistence through failure.",
+        author: "Aisha Tyler",
+    },
+    {
+        quote: "Dream big and dare to fail.",
+        author: "Norman Vaughan",
+    },
+    {
+        quote: "The best way to predict the future is to create it.",
+        author: "Peter Drucker",
+    },
+    {
+        quote: "Your time is limited, so don't waste it living someone else's life.",
+        author: "Steve Jobs",
+    },
+    {
+        quote: "Fall seven times and stand up eight.",
+        author: "Japanese Proverb",
+    },
+    {
+        quote: "Opportunities don't happen, you create them.",
+        author: "Chris Grosser",
+    },
+    {
+        quote: "It does not matter how slowly you go, as long as you do not stop.",
+        author: "Confucius",
+    },
+    {
+        quote: "Everything you've ever wanted is on the other side of fear.",
+        author: "George Addair",
+    },
+    {
+        quote: "Hardships often prepare ordinary people for an extraordinary destiny.",
+        author: "C.S. Lewis",
+    },
+    {
+        quote: "Success is how high you bounce when you hit bottom.",
+        author: "George S. Patton",
+    },
+    {
+        quote: "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Believe you can and you're halfway there.",
+        author: "Theodore Roosevelt",
+    },
+    {
+        quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        author: "Albert Schweitzer",
+    },
+    {
+        quote: "Don't watch the clock; do what it does. Keep going.",
+        author: "Sam Levenson",
+    },
+    {
+        quote: "The only limit to our realization of tomorrow is our doubts of today.",
+        author: "Franklin D. Roosevelt",
+    },
+    {
+        quote: "Success is the sum of small efforts, repeated day in and day out.",
+        author: "Robert Collier",
+    },
+    {
+        quote: "The only way to achieve the impossible is to believe it is possible.",
+        author: "Charles Kingsleigh",
+    },
+    {
+        quote: "Act as if what you do makes a difference. It does.",
+        author: "William James",
+    },
+    {
+        quote: "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+        author: "Ralph Waldo Emerson",
+    },
+    {
+        quote: "If you're going through hell, keep going.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "Everything you’ve ever wanted is on the other side of fear.",
+        author: "George Addair",
+    },
+    {
+        quote: "The best revenge is massive success.",
+        author: "Frank Sinatra",
+    },
+    {
+        quote: "I am not a product of my circumstances. I am a product of my decisions.",
+        author: "Stephen Covey",
+    },
+    {
+        quote: "The only way to do great work is to love what you do.",
+        author: "Steve Jobs",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "Success is how high you bounce when you hit bottom.",
+        author: "George S. Patton",
+    },
+    {
+        quote: "Don’t let yesterday take up too much of today.",
+        author: "Will Rogers",
+    },
+    {
+        quote: "People who are crazy enough to think they can change the world, are the ones who do.",
+        author: "Rob Siltanen",
+    },
+    {
+        quote: "Life is 10% what happens to us and 90% how we react to it.",
+        author: "Charles R. Swindoll",
+    },
+    {
+        quote: "The future belongs to those who believe in the beauty of their dreams.",
+        author: "Eleanor Roosevelt",
+    },
+    {
+        quote: "Don't let what you cannot do interfere with what you can do.",
+        author: "John Wooden",
+    },
+    {
+        quote: "Success is not in what you have, but who you are.",
+        author: "Bo Bennett",
+    },
+    {
+        quote: "The best time to plant a tree was 20 years ago. The second best time is now.",
+        author: "Chinese Proverb",
+    },
+    {
+        quote: "The secret of getting ahead is getting started.",
+        author: "Mark Twain",
+    },
+    {
+        quote: "Don't be afraid to give up the good to go for the great.",
+        author: "John D. Rockefeller",
+    },
+    {
+        quote: "I find that the harder I work, the more luck I seem to have.",
+        author: "Thomas Jefferson",
+    },
+    {
+        quote: "Success seems to be connected with action. Successful people keep moving.",
+        author: "Conrad Hilton",
+    },
+    {
+        quote: "The road to success is dotted with many tempting parking spaces.",
+        author: "Will Rogers",
+    },
+    {
+        quote: "Keep your eyes on the stars, and your feet on the ground.",
+        author: "Theodore Roosevelt",
+    },
+    {
+        quote: "It’s not whether you get knocked down, it’s whether you get up.",
+        author: "Vince Lombardi",
+    },
+    {
+        quote: "Successful people do what unsuccessful people are not willing to do.",
+        author: "Jim Rohn",
+    },
+    {
+        quote: "Don’t be distracted by criticism. Remember, the only taste of success some people get is to take a bite out of you.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not in what you have, but who you are.",
+        author: "Bo Bennett",
+    },
+    {
+        quote: "Your time is limited, so don’t waste it living someone else’s life.",
+        author: "Steve Jobs",
+    },
+    {
+        quote: "Don’t let the noise of others’ opinions drown out your own inner voice.",
+        author: "Steve Jobs",
+    },
+    {
+        quote: "Fall seven times and stand up eight.",
+        author: "Japanese Proverb",
+    },
+    {
+        quote: "What would you attempt to do if you knew you would not fail?",
+        author: "Robert Schuller",
+    },
+    {
+        quote: "You miss 100% of the shots you don't take.",
+        author: "Wayne Gretzky",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "The starting point of all achievement is desire.",
+        author: "Napoleon Hill",
+    },
+    {
+        quote: "The path to success is to take massive, determined action.",
+        author: "Tony Robbins",
+    },
+    {
+        quote: "You don’t have to be great to start, but you have to start to be great.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not just a measure of how big you can DREAM, it is also a measure of how much you can DO.",
+        author: "Anonymous",
+    },
+    {
+        quote: "The only limit to our realization of tomorrow is our doubts of today.",
+        author: "Franklin D. Roosevelt",
+    },
+    {
+        quote: "It always seems impossible until it is done.",
+        author: "Nelson Mandela",
+    },
+    {
+        quote: "The only way to achieve the impossible is to believe it is possible.",
+        author: "Charles Kingsleigh",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "Success is not in what you have, but who you are.",
+        author: "Bo Bennett",
+    },
+    {
+        quote: "The future depends on what you do today.",
+        author: "Mahatma Gandhi",
+    },
+    {
+        quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        author: "Albert Schweitzer",
+    },
+    {
+        quote: "The only way to do great work is to love what you do.",
+        author: "Steve Jobs",
+    },
+    {
+        quote: "Don’t watch the clock; do what it does. Keep going.",
+        author: "Sam Levenson",
+    },
+    {
+        quote: "What you do today can improve all your tomorrows.",
+        author: "Ralph Marston",
+    },
+    {
+        quote: "Act as if what you do makes a difference. It does.",
+        author: "William James",
+    },
+    {
+        quote: "You can't use up creativity. The more you use, the more you have.",
+        author: "Maya Angelou",
+    },
+    {
+        quote: "Turn your wounds into wisdom.",
+        author: "Oprah Winfrey",
+    },
+    {
+        quote: "The best way out is always through.",
+        author: "Robert Frost",
+    },
+    {
+        quote: "Keep your face always toward the sunshine—and shadows will fall behind you.",
+        author: "Walt Whitman",
+    },
+    {
+        quote: "The only way to achieve the impossible is to believe it is possible.",
+        author: "Charles Kingsleigh",
+    },
+    {
+        quote: "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+        author: "Robert Louis Stevenson",
+    },
+    {
+        quote: "You are never too old to set another goal or to dream a new dream.",
+        author: "C.S. Lewis",
+    },
+    {
+        quote: "Try to be a rainbow in someone else's cloud.",
+        author: "Maya Angelou",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "Your present circumstances don't determine where you can go; they merely determine where you start.",
+        author: "Nido Qubein",
+    },
+    {
+        quote: "Do not wait to strike till the iron is hot; but make it hot by striking.",
+        author: "William Butler Yeats",
+    },
+    {
+        quote: "Life isn't about waiting for the storm to pass, but learning to dance in the rain.",
+        author: "Vivian Greene",
+    },
+    {
+        quote: "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+        author: "Christian D. Larson",
+    },
+    {
+        quote: "Happiness is not something ready made. It comes from your own actions.",
+        author: "Dalai Lama",
+    },
+    {
+        quote: "The only way to discover the limits of the possible is to go beyond them into the impossible.",
+        author: "Arthur C. Clarke",
+    },
+    {
+        quote: "You miss 100% of the shots you don't take.",
+        author: "Wayne Gretzky",
+    },
+    {
+        quote: "I attribute my success to this: I never gave or took any excuse.",
+        author: "Florence Nightingale",
+    },
+    {
+        quote: "The future belongs to those who believe in the beauty of their dreams.",
+        author: "Eleanor Roosevelt",
+    },
+    {
+        quote: "To handle yourself, use your head; to handle others, use your heart.",
+        author: "Eleanor Roosevelt",
+    },
+    {
+        quote: "It is never too late to be what you might have been.",
+        author: "George Eliot",
+    },
+    {
+        quote: "A person who never made a mistake never tried anything new.",
+        author: "Albert Einstein",
+    },
+    {
+        quote: "You can't cross the sea merely by standing and staring at the water.",
+        author: "Rabindranath Tagore",
+    },
+    {
+        quote: "Do one thing every day that scares you.",
+        author: "Eleanor Roosevelt",
+    },
+    {
+        quote: "What we achieve inwardly will change outer reality.",
+        author: "Plutarch",
+    },
+    {
+        quote: "No matter what people tell you, words and ideas can change the world.",
+        author: "Robin Williams",
+    },
+    {
+        quote: "The only journey is the one within.",
+        author: "Rainer Maria Rilke",
+    },
+    {
+        quote: "You are what you believe yourself to be.",
+        author: "Paulo Coelho",
+    },
+    {
+        quote: "Everything you can imagine is real.",
+        author: "Pablo Picasso",
+    },
+    {
+        quote: "What you do speaks so loudly that I cannot hear what you say.",
+        author: "Ralph Waldo Emerson",
+    },
+    {
+        quote: "Act as if what you do makes a difference. It does.",
+        author: "William James",
+    },
+    {
+        quote: "The only limit to our realization of tomorrow is our doubts of today.",
+        author: "Franklin D. Roosevelt",
+    },
+    {
+        quote: "Do not wait to strike till the iron is hot; but make it hot by striking.",
+        author: "William Butler Yeats",
+    },
+    {
+        quote: "Your present circumstances don't determine where you can go; they merely determine where you start.",
+        author: "Nido Qubein",
+    },
+    {
+        quote: "We may encounter many defeats but we must not be defeated.",
+        author: "Maya Angelou",
+    },
+    {
+        quote: "Don't let yesterday take up too much of today.",
+        author: "Will Rogers",
+    },
+    {
+        quote: "Life is what we make it, always has been, always will be.",
+        author: "Grandma Moses",
+    },
+    {
+        quote: "The purpose of life is a life of purpose.",
+        author: "Robert Byrne",
+    },
+    {
+        quote: "If you want to live a happy life, tie it to a goal, not to people or things.",
+        author: "Albert Einstein",
+    },
+    {
+        quote: "Life is 10% what happens to us and 90% how we react to it.",
+        author: "Charles R. Swindoll",
+    },
+    {
+        quote: "An unexamined life is not worth living.",
+        author: "Socrates",
+    },
+    {
+        quote: "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+        author: "Buddha",
+    },
+    {
+        quote: "Good friends, good books, and a sleepy conscience: this is the ideal life.",
+        author: "Mark Twain",
+    },
+    {
+        quote: "Life is either a daring adventure or nothing at all.",
+        author: "Helen Keller",
+    },
+    {
+        quote: "Don't cry because it's over, smile because it happened.",
+        author: "Dr. Seuss",
+    },
+    {
+        quote: "You only live once, but if you do it right, once is enough.",
+        author: "Mae West",
+    },
+    {
+        quote: "In three words I can sum up everything I've learned about life: it goes on.",
+        author: "Robert Frost",
+    },
+    {
+        quote: "To live is the rarest thing in the world. Most people exist, that is all.",
+        author: "Oscar Wilde",
+    },
+    {
+        quote: "It is better to be hated for what you are than to be loved for what you are not.",
+        author: "Andre Gide",
+    },
+    {
+        quote: "The mind is everything. What you think you become.",
+        author: "Buddha",
+    },
+    {
+        quote: "Challenges are what make life interesting and overcoming them is what makes life meaningful.",
+        author: "Joshua J. Marine",
+    },
+    {
+        quote: "I have found that if you love life, life will love you back.",
+        author: "Arthur Rubinstein",
+    },
+    {
+        quote: "Life is short, and it is up to you to make it sweet.",
+        author: "Sarah Louise Delany",
+    },
+    {
+        quote: "Keep smiling, because life is a beautiful thing and there's so much to smile about.",
+        author: "Marilyn Monroe",
+    },
+    {
+        quote: "You only live once, but if you do it right, once is enough.",
+        author: "Mae West",
+    },
+    {
+        quote: "The longer I live, the more I realize the impact of attitude on life.",
+        author: "Charles R. Swindoll",
+    },
+    {
+        quote: "Life isn't about waiting for the storm to pass, but learning to dance in the rain.",
+        author: "Vivian Greene",
+    },
+    {
+        quote: "Good friends, good books, and a sleepy conscience: this is the ideal life.",
+        author: "Mark Twain",
+    },
+    {
+        quote: "In the end, it's not the years in your life that count. It's the life in your years.",
+        author: "Abraham Lincoln",
+    },
+    {
+        quote: "Life is short, and it is up to you to make it sweet.",
+        author: "Sarah Louise Delany",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "Believe you can and you're halfway there.",
+        author: "Theodore Roosevelt",
+    },
+    {
+        quote: "Your time is limited, so don't waste it living someone else's life.",
+        author: "Steve Jobs",
+    },
+    {
+        quote: "Fall seven times and stand up eight.",
+        author: "Japanese Proverb",
+    },
+    {
+        quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+        author: "James Cameron",
+    },
+    {
+        quote: "Your time is limited, so don't waste it living someone else's life.",
+        author: "Steve Jobs",
+    },
+    {
+        quote: "If life were predictable it would cease to be life, and be without flavor.",
+        author: "Eleanor Roosevelt",
+    },
+    {
+        quote: "The only impossible journey is the one you never begin.",
+        author: "Tony Robbins",
+    },
+    {
+        quote: "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+        author: "Martin Luther King Jr.",
+    },
+    {
+        quote: "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.",
+        author: "Oprah Winfrey",
+    },
+    {
+        quote: "The only limit to our realization of tomorrow is our doubts of today.",
+        author: "Franklin D. Roosevelt",
+    },
+    {
+        quote: "To handle yourself, use your head; to handle others, use your heart.",
+        author: "Eleanor Roosevelt",
+    },
+    {
+        quote: "You will face many defeats in life, but never let yourself be defeated.",
+        author: "Maya Angelou",
+    },
+    {
+        quote: "Go confidently in the direction of your dreams! Live the life you've imagined.",
+        author: "Henry David Thoreau",
+    },
+    {
+        quote: "Believe you can and you're halfway there.",
+        author: "Theodore Roosevelt",
+    },
+    {
+        quote: "The best time to plant a tree was 20 years ago. The second best time is now.",
+        author: "Chinese Proverb",
+    },
+    {
+        quote: "The only limit to our realization of tomorrow will be our doubts of today.",
+        author: "Franklin D. Roosevelt",
+    },
+    {
+        quote: "The only way to achieve the impossible is to believe it is possible.",
+        author: "Charles Kingsleigh",
+    },
+    {
+        quote: "Success usually comes to those who are too busy to be looking for it.",
+        author: "Henry David Thoreau",
+    },
+    {
+        quote: "If you are not willing to risk the usual, you will have to settle for the ordinary.",
+        author: "Jim Rohn",
+    },
+    {
+        quote: "The way to get started is to quit talking and begin doing.",
+        author: "Walt Disney",
+    },
+    {
+        quote: "Don't be afraid to give up the good to go for the great.",
+        author: "John D. Rockefeller",
+    },
+    {
+        quote: "I find that the harder I work, the more luck I seem to have.",
+        author: "Thomas Jefferson",
+    },
+    {
+        quote: "Success is not in what you have, but who you are.",
+        author: "Bo Bennett",
+    },
+    {
+        quote: "You may have to fight a battle more than once to win it.",
+        author: "Margaret Thatcher",
+    },
+    {
+        quote: "A successful man is one who can lay a firm foundation with the bricks others have thrown at him.",
+        author: "David Brinkley",
+    },
+    {
+        quote: "What seems to us as bitter trials are often blessings in disguise.",
+        author: "Oscar Wilde",
+    },
+    {
+        quote: "Don't let what you cannot do interfere with what you can do.",
+        author: "John R. Wooden",
+    },
+    {
+        quote: "To be successful you must accept all challenges that come your way. You can't just accept the ones you like.",
+        author: "Mike Gafka",
+    },
+    {
+        quote: "Success is walking from failure to failure with no loss of enthusiasm.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The ones who are crazy enough to think they can change the world, are the ones that do.",
+        author: "Anonymous",
+    },
+    {
+        quote: "Opportunities don't happen, you create them.",
+        author: "Chris Grosser",
+    },
+    {
+        quote: "Try not to become a man of success. Rather become a man of value.",
+        author: "Albert Einstein",
+    },
+    {
+        quote: "Don't be afraid to give up the good to go for the great.",
+        author: "John D. Rockefeller",
+    },
+    {
+        quote: "Stop chasing the money and start chasing the passion.",
+        author: "Tony Hsieh",
+    },
+    {
+        quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        author: "Albert Schweitzer",
+    },
+    {
+        quote: "Success seems to be connected with action. Successful people keep moving. They make mistakes but they don't quit.",
+        author: "Conrad Hilton",
+    },
+    {
+        quote: "If you really look closely, most overnight successes took a long time.",
+        author: "Steve Jobs",
+    },
+    {
+        quote: "The real test is not whether you avoid this failure, because you won't. It's whether you let it harden or shame you into inaction, or whether you learn from it; whether you choose to persevere.",
+        author: "Barack Obama",
+    },
+    {
+        quote: "The only limit to our realization of tomorrow will be our doubts of today.",
+        author: "Franklin D. Roosevelt",
+    },
+    {
+        quote: "It is better to fail in originality than to succeed in imitation.",
+        author: "Herman Melville",
+    },
+    {
+        quote: "Successful people do what unsuccessful people are not willing to do. Don't wish it were easier; wish you were better.",
+        author: "Jim Rohn",
+    },
+    {
+        quote: "The road to success and the road to failure are almost exactly the same.",
+        author: "Colin R. Davis",
+    },
+    {
+        quote: "I failed my way to success.",
+        author: "Thomas Edison",
+    },
+    {
+        quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+        author: "James Cameron",
+    },
+    {
+        quote: "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
+        author: "Jim Rohn",
+    },
+    {
+        quote: "Success usually comes to those who are too busy to be looking for it.",
+        author: "Henry David Thoreau",
+    },
+    {
+        quote: "I never dreamed about success, I worked for it.",
+        author: "Estee Lauder",
+    },
+    {
+        quote: "Success is not in what you have, but who you are.",
+        author: "Bo Bennett",
+    },
+    {
+        quote: "I find that the harder I work, the more luck I seem to have.",
+        author: "Thomas Jefferson",
+    },
+    {
+        quote: "The starting point of all achievement is desire.",
+        author: "Napoleon Hill",
+    },
+    {
+        quote: "Success is the sum of small efforts, repeated day-in and day-out.",
+        author: "Robert Collier",
+    },
+    {
+        quote: "Success is not the absence of failure; it's the persistence through failure.",
+        author: "Aisha Tyler",
+    },
+    {
+        quote: "Only those who dare to fail greatly can ever achieve greatly.",
+        author: "Robert F. Kennedy",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "Success usually comes to those who are too busy to be looking for it.",
+        author: "Henry David Thoreau",
+    },
+    {
+        quote: "The road to success and the road to failure are almost exactly the same.",
+        author: "Colin R. Davis",
+    },
+    {
+        quote: "I failed my way to success.",
+        author: "Thomas Edison",
+    },
+    {
+        quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+        author: "James Cameron",
+    },
+    {
+        quote: "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
+        author: "Jim Rohn",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The way to get started is to quit talking and begin doing.",
+        author: "Walt Disney",
+    },
+    {
+        quote: "Don't be afraid to give up the good to go for the great.",
+        author: "John D. Rockefeller",
+    },
+    {
+        quote: "I find that the harder I work, the more luck I seem to have.",
+        author: "Thomas Jefferson",
+    },
+    {
+        quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        author: "Albert Schweitzer",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The road to success and the road to failure are almost exactly the same.",
+        author: "Colin R. Davis",
+    },
+    {
+        quote: "I failed my way to success.",
+        author: "Thomas Edison",
+    },
+    {
+        quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+        author: "James Cameron",
+    },
+    {
+        quote: "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
+        author: "Jim Rohn",
+    },
+    {
+        quote: "Success usually comes to those who are too busy to be looking for it.",
+        author: "Henry David Thoreau",
+    },
+    {
+        quote: "The road to success and the road to failure are almost exactly the same.",
+        author: "Colin R. Davis",
+    },
+    {
+        quote: "I failed my way to success.",
+        author: "Thomas Edison",
+    },
+    {
+        quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+        author: "James Cameron",
+    },
+    {
+        quote: "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
+        author: "Jim Rohn",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The way to get started is to quit talking and begin doing.",
+        author: "Walt Disney",
+    },
+    {
+        quote: "Don't be afraid to give up the good to go for the great.",
+        author: "John D. Rockefeller",
+    },
+    {
+        quote: "I find that the harder I work, the more luck I seem to have.",
+        author: "Thomas Jefferson",
+    },
+    {
+        quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        author: "Albert Schweitzer",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The road to success and the road to failure are almost exactly the same.",
+        author: "Colin R. Davis",
+    },
+    {
+        quote: "I failed my way to success.",
+        author: "Thomas Edison",
+    },
+    {
+        quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+        author: "James Cameron",
+    },
+    {
+        quote: "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
+        author: "Jim Rohn",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The way to get started is to quit talking and begin doing.",
+        author: "Walt Disney",
+    },
+    {
+        quote: "Don't be afraid to give up the good to go for the great.",
+        author: "John D. Rockefeller",
+    },
+    {
+        quote: "I find that the harder I work, the more luck I seem to have.",
+        author: "Thomas Jefferson",
+    },
+    {
+        quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        author: "Albert Schweitzer",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "It is better to fail in originality than to succeed in imitation.",
+        author: "Herman Melville",
+    },
+    {
+        quote: "Success is walking from failure to failure with no loss of enthusiasm.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The ones who are crazy enough to think they can change the world, are the ones that do.",
+        author: "Anonymous",
+    },
+    {
+        quote: "Opportunities don't happen, you create them.",
+        author: "Chris Grosser",
+    },
+    {
+        quote: "Try not to become a man of success. Rather become a man of value.",
+        author: "Albert Einstein",
+    },
+    {
+        quote: "Success usually comes to those who are too busy to be looking for it.",
+        author: "Henry David Thoreau",
+    },
+    {
+        quote: "Stop chasing the money and start chasing the passion.",
+        author: "Tony Hsieh",
+    },
+    {
+        quote: "Success seems to be connected with action. Successful people keep moving. They make mistakes but they don't quit.",
+        author: "Conrad Hilton",
+    },
+    {
+        quote: "The real test is not whether you avoid this failure, because you won't. It's whether you let it harden or shame you into inaction, or whether you learn from it; whether you choose to persevere.",
+        author: "Barack Obama",
+    },
+    {
+        quote: "The only limit to our realization of tomorrow will be our doubts of today.",
+        author: "Franklin D. Roosevelt",
+    },
+    {
+        quote: "What seems to us as bitter trials are often blessings in disguise.",
+        author: "Oscar Wilde",
+    },
+    {
+        quote: "Don't let what you cannot do interfere with what you can do.",
+        author: "John R. Wooden",
+    },
+    {
+        quote: "To be successful you must accept all challenges that come your way. You can't just accept the ones you like.",
+        author: "Mike Gafka",
+    },
+    {
+        quote: "Success usually comes to those who are too busy to be looking for it.",
+        author: "Henry David Thoreau",
+    },
+    {
+        quote: "I never dreamed about success, I worked for it.",
+        author: "Estee Lauder",
+    },
+    {
+        quote: "Success is not in what you have, but who you are.",
+        author: "Bo Bennett",
+    },
+    {
+        quote: "I find that the harder I work, the more luck I seem to have.",
+        author: "Thomas Jefferson",
+    },
+    {
+        quote: "The starting point of all achievement is desire.",
+        author: "Napoleon Hill",
+    },
+    {
+        quote: "Success is the sum of small efforts, repeated day-in and day-out.",
+        author: "Robert Collier",
+    },
+    {
+        quote: "Success is not the absence of failure; it's the persistence through failure.",
+        author: "Aisha Tyler",
+    },
+    {
+        quote: "Only those who dare to fail greatly can ever achieve greatly.",
+        author: "Robert F. Kennedy",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The road to success and the road to failure are almost exactly the same.",
+        author: "Colin R. Davis",
+    },
+    {
+        quote: "I failed my way to success.",
+        author: "Thomas Edison",
+    },
+    {
+        quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+        author: "James Cameron",
+    },
+    {
+        quote: "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
+        author: "Jim Rohn",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The way to get started is to quit talking and begin doing.",
+        author: "Walt Disney",
+    },
+    {
+        quote: "Don't be afraid to give up the good to go for the great.",
+        author: "John D. Rockefeller",
+    },
+    {
+        quote: "I find that the harder I work, the more luck I seem to have.",
+        author: "Thomas Jefferson",
+    },
+    {
+        quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        author: "Albert Schweitzer",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "Success is walking from failure to failure with no loss of enthusiasm.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The ones who are crazy enough to think they can change the world, are the ones that do.",
+        author: "Anonymous",
+    },
+    {
+        quote: "Opportunities don't happen, you create them.",
+        author: "Chris Grosser",
+    },
+    {
+        quote: "Try not to become a man of success. Rather become a man of value.",
+        author: "Albert Einstein",
+    },
+    {
+        quote: "Success usually comes to those who are too busy to be looking for it.",
+        author: "Henry David Thoreau",
+    },
+    {
+        quote: "Stop chasing the money and start chasing the passion.",
+        author: "Tony Hsieh",
+    },
+    {
+        quote: "Success seems to be connected with action. Successful people keep moving. They make mistakes but they don't quit.",
+        author: "Conrad Hilton",
+    },
+    {
+        quote: "The real test is not whether you avoid this failure, because you won't. It's whether you let it harden or shame you into inaction, or whether you learn from it; whether you choose to persevere.",
+        author: "Barack Obama",
+    },
+    {
+        quote: "The only limit to our realization of tomorrow will be our doubts of today.",
+        author: "Franklin D. Roosevelt",
+    },
+    {
+        quote: "What seems to us as bitter trials are often blessings in disguise.",
+        author: "Oscar Wilde",
+    },
+    {
+        quote: "Don't let what you cannot do interfere with what you can do.",
+        author: "John R. Wooden",
+    },
+    {
+        quote: "To be successful you must accept all challenges that come your way. You can't just accept the ones you like.",
+        author: "Mike Gafka",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "Success is not the absence of failure; it's the persistence through failure.",
+        author: "Aisha Tyler",
+    },
+    {
+        quote: "Only those who dare to fail greatly can ever achieve greatly.",
+        author: "Robert F. Kennedy",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The road to success and the road to failure are almost exactly the same.",
+        author: "Colin R. Davis",
+    },
+    {
+        quote: "I failed my way to success.",
+        author: "Thomas Edison",
+    },
+    {
+        quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+        author: "James Cameron",
+    },
+    {
+        quote: "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
+        author: "Jim Rohn",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The way to get started is to quit talking and begin doing.",
+        author: "Walt Disney",
+    },
+    {
+        quote: "Don't be afraid to give up the good to go for the great.",
+        author: "John D. Rockefeller",
+    },
+    {
+        quote: "I find that the harder I work, the more luck I seem to have.",
+        author: "Thomas Jefferson",
+    },
+    {
+        quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        author: "Albert Schweitzer",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "Success is walking from failure to failure with no loss of enthusiasm.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The ones who are crazy enough to think they can change the world, are the ones that do.",
+        author: "Anonymous",
+    },
+    {
+        quote: "Opportunities don't happen, you create them.",
+        author: "Chris Grosser",
+    },
+    {
+        quote: "Try not to become a man of success. Rather become a man of value.",
+        author: "Albert Einstein",
+    },
+    {
+        quote: "Success usually comes to those who are too busy to be looking for it.",
+        author: "Henry David Thoreau",
+    },
+    {
+        quote: "Stop chasing the money and start chasing the passion.",
+        author: "Tony Hsieh",
+    },
+    {
+        quote: "Success seems to be connected with action. Successful people keep moving. They make mistakes but they don't quit.",
+        author: "Conrad Hilton",
+    },
+    {
+        quote: "The real test is not whether you avoid this failure, because you won't. It's whether you let it harden or shame you into inaction, or whether you learn from it; whether you choose to persevere.",
+        author: "Barack Obama",
+    },
+    {
+        quote: "The only limit to our realization of tomorrow will be our doubts of today.",
+        author: "Franklin D. Roosevelt",
+    },
+    {
+        quote: "What seems to us as bitter trials are often blessings in disguise.",
+        author: "Oscar Wilde",
+    },
+    {
+        quote: "Don't let what you cannot do interfere with what you can do.",
+        author: "John R. Wooden",
+    },
+    {
+        quote: "To be successful you must accept all challenges that come your way. You can't just accept the ones you like.",
+        author: "Mike Gafka",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "Success is not the absence of failure; it's the persistence through failure.",
+        author: "Aisha Tyler",
+    },
+    {
+        quote: "Only those who dare to fail greatly can ever achieve greatly.",
+        author: "Robert F. Kennedy",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The road to success and the road to failure are almost exactly the same.",
+        author: "Colin R. Davis",
+    },
+    {
+        quote: "I failed my way to success.",
+        author: "Thomas Edison",
+    },
+    {
+        quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+        author: "James Cameron",
+    },
+    {
+        quote: "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
+        author: "Jim Rohn",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The way to get started is to quit talking and begin doing.",
+        author: "Walt Disney",
+    },
+    {
+        quote: "Don't be afraid to give up the good to go for the great.",
+        author: "John D. Rockefeller",
+    },
+    {
+        quote: "I find that the harder I work, the more luck I seem to have.",
+        author: "Thomas Jefferson",
+    },
+    {
+        quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        author: "Albert Schweitzer",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "Success is walking from failure to failure with no loss of enthusiasm.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The ones who are crazy enough to think they can change the world, are the ones that do.",
+        author: "Anonymous",
+    },
+    {
+        quote: "Opportunities don't happen, you create them.",
+        author: "Chris Grosser",
+    },
+    {
+        quote: "Try not to become a man of success. Rather become a man of value.",
+        author: "Albert Einstein",
+    },
+    {
+        quote: "Success usually comes to those who are too busy to be looking for it.",
+        author: "Henry David Thoreau",
+    },
+    {
+        quote: "Stop chasing the money and start chasing the passion.",
+        author: "Tony Hsieh",
+    },
+    {
+        quote: "Success seems to be connected with action. Successful people keep moving. They make mistakes but they don't quit.",
+        author: "Conrad Hilton",
+    },
+    {
+        quote: "The real test is not whether you avoid this failure, because you won't. It's whether you let it harden or shame you into inaction, or whether you learn from it; whether you choose to persevere.",
+        author: "Barack Obama",
+    },
+    {
+        quote: "The only limit to our realization of tomorrow will be our doubts of today.",
+        author: "Franklin D. Roosevelt",
+    },
+    {
+        quote: "What seems to us as bitter trials are often blessings in disguise.",
+        author: "Oscar Wilde",
+    },
+    {
+        quote: "Don't let what you cannot do interfere with what you can do.",
+        author: "John R. Wooden",
+    },
+    {
+        quote: "To be successful you must accept all challenges that come your way. You can't just accept the ones you like.",
+        author: "Mike Gafka",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "Success is not the absence of failure; it's the persistence through failure.",
+        author: "Aisha Tyler",
+    },
+    {
+        quote: "Only those who dare to fail greatly can ever achieve greatly.",
+        author: "Robert F. Kennedy",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The road to success and the road to failure are almost exactly the same.",
+        author: "Colin R. Davis",
+    },
+    {
+        quote: "I failed my way to success.",
+        author: "Thomas Edison",
+    },
+    {
+        quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+        author: "James Cameron",
+    },
+    {
+        quote: "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
+        author: "Jim Rohn",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The way to get started is to quit talking and begin doing.",
+        author: "Walt Disney",
+    },
+    {
+        quote: "Don't be afraid to give up the good to go for the great.",
+        author: "John D. Rockefeller",
+    },
+    {
+        quote: "I find that the harder I work, the more luck I seem to have.",
+        author: "Thomas Jefferson",
+    },
+    {
+        quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        author: "Albert Schweitzer",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "Success is walking from failure to failure with no loss of enthusiasm.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The ones who are crazy enough to think they can change the world, are the ones that do.",
+        author: "Anonymous",
+    },
+    {
+        quote: "Opportunities don't happen, you create them.",
+        author: "Chris Grosser",
+    },
+    {
+        quote: "Try not to become a man of success. Rather become a man of value.",
+        author: "Albert Einstein",
+    },
+    {
+        quote: "Success usually comes to those who are too busy to be looking for it.",
+        author: "Henry David Thoreau",
+    },
+    {
+        quote: "Stop chasing the money and start chasing the passion.",
+        author: "Tony Hsieh",
+    },
+    {
+        quote: "Success seems to be connected with action. Successful people keep moving. They make mistakes but they don't quit.",
+        author: "Conrad Hilton",
+    },
+    {
+        quote: "The real test is not whether you avoid this failure, because you won't. It's whether you let it harden or shame you into inaction, or whether you learn from it; whether you choose to persevere.",
+        author: "Barack Obama",
+    },
+    {
+        quote: "The only limit to our realization of tomorrow will be our doubts of today.",
+        author: "Franklin D. Roosevelt",
+    },
+    {
+        quote: "What seems to us as bitter trials are often blessings in disguise.",
+        author: "Oscar Wilde",
+    },
+    {
+        quote: "Don't let what you cannot do interfere with what you can do.",
+        author: "John R. Wooden",
+    },
+    {
+        quote: "To be successful you must accept all challenges that come your way. You can't just accept the ones you like.",
+        author: "Mike Gafka",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "Success is not the absence of failure; it's the persistence through failure.",
+        author: "Aisha Tyler",
+    },
+    {
+        quote: "Only those who dare to fail greatly can ever achieve greatly.",
+        author: "Robert F. Kennedy",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The road to success and the road to failure are almost exactly the same.",
+        author: "Colin R. Davis",
+    },
+    {
+        quote: "I failed my way to success.",
+        author: "Thomas Edison",
+    },
+    {
+        quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+        author: "James Cameron",
+    },
+    {
+        quote: "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
+        author: "Jim Rohn",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The way to get started is to quit talking and begin doing.",
+        author: "Walt Disney",
+    },
+    {
+        quote: "Don't be afraid to give up the good to go for the great.",
+        author: "John D. Rockefeller",
+    },
+    {
+        quote: "I find that the harder I work, the more luck I seem to have.",
+        author: "Thomas Jefferson",
+    },
+    {
+        quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        author: "Albert Schweitzer",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "Success is walking from failure to failure with no loss of enthusiasm.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The ones who are crazy enough to think they can change the world, are the ones that do.",
+        author: "Anonymous",
+    },
+    {
+        quote: "Opportunities don't happen, you create them.",
+        author: "Chris Grosser",
+    },
+    {
+        quote: "Try not to become a man of success. Rather become a man of value.",
+        author: "Albert Einstein",
+    },
+    {
+        quote: "Success usually comes to those who are too busy to be looking for it.",
+        author: "Henry David Thoreau",
+    },
+    {
+        quote: "Stop chasing the money and start chasing the passion.",
+        author: "Tony Hsieh",
+    },
+    {
+        quote: "Success seems to be connected with action. Successful people keep moving. They make mistakes but they don't quit.",
+        author: "Conrad Hilton",
+    },
+    {
+        quote: "The real test is not whether you avoid this failure, because you won't. It's whether you let it harden or shame you into inaction, or whether you learn from it; whether you choose to persevere.",
+        author: "Barack Obama",
+    },
+    {
+        quote: "The only limit to our realization of tomorrow will be our doubts of today.",
+        author: "Franklin D. Roosevelt",
+    },
+    {
+        quote: "What seems to us as bitter trials are often blessings in disguise.",
+        author: "Oscar Wilde",
+    },
+    {
+        quote: "Don't let what you cannot do interfere with what you can do.",
+        author: "John R. Wooden",
+    },
+    {
+        quote: "To be successful you must accept all challenges that come your way. You can't just accept the ones you like.",
+        author: "Mike Gafka",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "Success is not the absence of failure; it's the persistence through failure.",
+        author: "Aisha Tyler",
+    },
+    {
+        quote: "Only those who dare to fail greatly can ever achieve greatly.",
+        author: "Robert F. Kennedy",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The road to success and the road to failure are almost exactly the same.",
+        author: "Colin R. Davis",
+    },
+    {
+        quote: "I failed my way to success.",
+        author: "Thomas Edison",
+    },
+    {
+        quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+        author: "James Cameron",
+    },
+    {
+        quote: "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
+        author: "Jim Rohn",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The way to get started is to quit talking and begin doing.",
+        author: "Walt Disney",
+    },
+    {
+        quote: "Don't be afraid to give up the good to go for the great.",
+        author: "John D. Rockefeller",
+    },
+    {
+        quote: "I find that the harder I work, the more luck I seem to have.",
+        author: "Thomas Jefferson",
+    },
+    {
+        quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        author: "Albert Schweitzer",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "Success is walking from failure to failure with no loss of enthusiasm.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The ones who are crazy enough to think they can change the world, are the ones that do.",
+        author: "Anonymous",
+    },
+    {
+        quote: "Opportunities don't happen, you create them.",
+        author: "Chris Grosser",
+    },
+    {
+        quote: "Try not to become a man of success. Rather become a man of value.",
+        author: "Albert Einstein",
+    },
+    {
+        quote: "Success usually comes to those who are too busy to be looking for it.",
+        author: "Henry David Thoreau",
+    },
+    {
+        quote: "Stop chasing the money and start chasing the passion.",
+        author: "Tony Hsieh",
+    },
+    {
+        quote: "Success seems to be connected with action. Successful people keep moving. They make mistakes but they don't quit.",
+        author: "Conrad Hilton",
+    },
+    {
+        quote: "The real test is not whether you avoid this failure, because you won't. It's whether you let it harden or shame you into inaction, or whether you learn from it; whether you choose to persevere.",
+        author: "Barack Obama",
+    },
+    {
+        quote: "The only limit to our realization of tomorrow will be our doubts of today.",
+        author: "Franklin D. Roosevelt",
+    },
+    {
+        quote: "What seems to us as bitter trials are often blessings in disguise.",
+        author: "Oscar Wilde",
+    },
+    {
+        quote: "Don't let what you cannot do interfere with what you can do.",
+        author: "John R. Wooden",
+    },
+    {
+        quote: "To be successful you must accept all challenges that come your way. You can't just accept the ones you like.",
+        author: "Mike Gafka",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "Success is not the absence of failure; it's the persistence through failure.",
+        author: "Aisha Tyler",
+    },
+    {
+        quote: "Only those who dare to fail greatly can ever achieve greatly.",
+        author: "Robert F. Kennedy",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The road to success and the road to failure are almost exactly the same.",
+        author: "Colin R. Davis",
+    },
+    {
+        quote: "I failed my way to success.",
+        author: "Thomas Edison",
+    },
+    {
+        quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+        author: "James Cameron",
+    },
+    {
+        quote: "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
+        author: "Jim Rohn",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The way to get started is to quit talking and begin doing.",
+        author: "Walt Disney",
+    },
+    {
+        quote: "Don't be afraid to give up the good to go for the great.",
+        author: "John D. Rockefeller",
+    },
+    {
+        quote: "I find that the harder I work, the more luck I seem to have.",
+        author: "Thomas Jefferson",
+    },
+    {
+        quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        author: "Albert Schweitzer",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "Success is walking from failure to failure with no loss of enthusiasm.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The ones who are crazy enough to think they can change the world, are the ones that do.",
+        author: "Anonymous",
+    },
+    {
+        quote: "Opportunities don't happen, you create them.",
+        author: "Chris Grosser",
+    },
+    {
+        quote: "Try not to become a man of success. Rather become a man of value.",
+        author: "Albert Einstein",
+    },
+    {
+        quote: "Success usually comes to those who are too busy to be looking for it.",
+        author: "Henry David Thoreau",
+    },
+    {
+        quote: "Stop chasing the money and start chasing the passion.",
+        author: "Tony Hsieh",
+    },
+    {
+        quote: "Success seems to be connected with action. Successful people keep moving. They make mistakes but they don't quit.",
+        author: "Conrad Hilton",
+    },
+    {
+        quote: "The real test is not whether you avoid this failure, because you won't. It's whether you let it harden or shame you into inaction, or whether you learn from it; whether you choose to persevere.",
+        author: "Barack Obama",
+    },
+    {
+        quote: "The only limit to our realization of tomorrow will be our doubts of today.",
+        author: "Franklin D. Roosevelt",
+    },
+    {
+        quote: "What seems to us as bitter trials are often blessings in disguise.",
+        author: "Oscar Wilde",
+    },
+    {
+        quote: "Don't let what you cannot do interfere with what you can do.",
+        author: "John R. Wooden",
+    },
+    {
+        quote: "To be successful you must accept all challenges that come your way. You can't just accept the ones you like.",
+        author: "Mike Gafka",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "Success is not the absence of failure; it's the persistence through failure.",
+        author: "Aisha Tyler",
+    },
+    {
+        quote: "Only those who dare to fail greatly can ever achieve greatly.",
+        author: "Robert F. Kennedy",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The road to success and the road to failure are almost exactly the same.",
+        author: "Colin R. Davis",
+    },
+    {
+        quote: "I failed my way to success.",
+        author: "Thomas Edison",
+    },
+    {
+        quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+        author: "James Cameron",
+    },
+    {
+        quote: "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
+        author: "Jim Rohn",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The way to get started is to quit talking and begin doing.",
+        author: "Walt Disney",
+    },
+    {
+        quote: "Don't be afraid to give up the good to go for the great.",
+        author: "John D. Rockefeller",
+    },
+    {
+        quote: "I find that the harder I work, the more luck I seem to have.",
+        author: "Thomas Jefferson",
+    },
+    {
+        quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        author: "Albert Schweitzer",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "Success is walking from failure to failure with no loss of enthusiasm.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The ones who are crazy enough to think they can change the world, are the ones that do.",
+        author: "Anonymous",
+    },
+    {
+        quote: "Opportunities don't happen, you create them.",
+        author: "Chris Grosser",
+    },
+    {
+        quote: "Try not to become a man of success. Rather become a man of value.",
+        author: "Albert Einstein",
+    },
+    {
+        quote: "Success usually comes to those who are too busy to be looking for it.",
+        author: "Henry David Thoreau",
+    },
+    {
+        quote: "Stop chasing the money and start chasing the passion.",
+        author: "Tony Hsieh",
+    },
+    {
+        quote: "Success seems to be connected with action. Successful people keep moving. They make mistakes but they don't quit.",
+        author: "Conrad Hilton",
+    },
+    {
+        quote: "The real test is not whether you avoid this failure, because you won't. It's whether you let it harden or shame you into inaction, or whether you learn from it; whether you choose to persevere.",
+        author: "Barack Obama",
+    },
+    {
+        quote: "The only limit to our realization of tomorrow will be our doubts of today.",
+        author: "Franklin D. Roosevelt",
+    },
+    {
+        quote: "What seems to us as bitter trials are often blessings in disguise.",
+        author: "Oscar Wilde",
+    },
+    {
+        quote: "Don't let what you cannot do interfere with what you can do.",
+        author: "John R. Wooden",
+    },
+    {
+        quote: "To be successful you must accept all challenges that come your way. You can't just accept the ones you like.",
+        author: "Mike Gafka",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "Success is not the absence of failure; it's the persistence through failure.",
+        author: "Aisha Tyler",
+    },
+    {
+        quote: "Only those who dare to fail greatly can ever achieve greatly.",
+        author: "Robert F. Kennedy",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The road to success and the road to failure are almost exactly the same.",
+        author: "Colin R. Davis",
+    },
+    {
+        quote: "I failed my way to success.",
+        author: "Thomas Edison",
+    },
+    {
+        quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+        author: "James Cameron",
+    },
+    {
+        quote: "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
+        author: "Jim Rohn",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The way to get started is to quit talking and begin doing.",
+        author: "Walt Disney",
+    },
+    {
+        quote: "Don't be afraid to give up the good to go for the great.",
+        author: "John D. Rockefeller",
+    },
+    {
+        quote: "I find that the harder I work, the more luck I seem to have.",
+        author: "Thomas Jefferson",
+    },
+    {
+        quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        author: "Albert Schweitzer",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "Success is walking from failure to failure with no loss of enthusiasm.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The ones who are crazy enough to think they can change the world, are the ones that do.",
+        author: "Anonymous",
+    },
+    {
+        quote: "Opportunities don't happen, you create them.",
+        author: "Chris Grosser",
+    },
+    {
+        quote: "Try not to become a man of success. Rather become a man of value.",
+        author: "Albert Einstein",
+    },
+    {
+        quote: "Success usually comes to those who are too busy to be looking for it.",
+        author: "Henry David Thoreau",
+    },
+    {
+        quote: "Stop chasing the money and start chasing the passion.",
+        author: "Tony Hsieh",
+    },
+    {
+        quote: "Success seems to be connected with action. Successful people keep moving. They make mistakes but they don't quit.",
+        author: "Conrad Hilton",
+    },
+    {
+        quote: "The real test is not whether you avoid this failure, because you won't. It's whether you let it harden or shame you into inaction, or whether you learn from it; whether you choose to persevere.",
+        author: "Barack Obama",
+    },
+    {
+        quote: "The only limit to our realization of tomorrow will be our doubts of today.",
+        author: "Franklin D. Roosevelt",
+    },
+    {
+        quote: "What seems to us as bitter trials are often blessings in disguise.",
+        author: "Oscar Wilde",
+    },
+    {
+        quote: "Don't let what you cannot do interfere with what you can do.",
+        author: "John R. Wooden",
+    },
+    {
+        quote: "To be successful you must accept all challenges that come your way. You can't just accept the ones you like.",
+        author: "Mike Gafka",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "Success is not the absence of failure; it's the persistence through failure.",
+        author: "Aisha Tyler",
+    },
+    {
+        quote: "Only those who dare to fail greatly can ever achieve greatly.",
+        author: "Robert F. Kennedy",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        author: "Albert Schweitzer",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The road to success and the road to failure are almost exactly the same.",
+        author: "Colin R. Davis",
+    },
+    {
+        quote: "I failed my way to success.",
+        author: "Thomas Edison",
+    },
+    {
+        quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+        author: "James Cameron",
+    },
+    {
+        quote: "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
+        author: "Jim Rohn",
+    },
+    {
+        quote: "Success usually comes to those who are too busy to be looking for it.",
+        author: "Henry David Thoreau",
+    },
+    {
+        quote: "The road to success and the road to failure are almost exactly the same.",
+        author: "Colin R. Davis",
+    },
+    {
+        quote: "I failed my way to success.",
+        author: "Thomas Edison",
+    },
+    {
+        quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+        author: "James Cameron",
+    },
+    {
+        quote: "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
+        author: "Jim Rohn",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The way to get started is to quit talking and begin doing.",
+        author: "Walt Disney",
+    },
+    {
+        quote: "Don't be afraid to give up the good to go for the great.",
+        author: "John D. Rockefeller",
+    },
+    {
+        quote: "I find that the harder I work, the more luck I seem to have.",
+        author: "Thomas Jefferson",
+    },
+    {
+        quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        author: "Albert Schweitzer",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The road to success and the road to failure are almost exactly the same.",
+        author: "Colin R. Davis",
+    },
+    {
+        quote: "I failed my way to success.",
+        author: "Thomas Edison",
+    },
+    {
+        quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+        author: "James Cameron",
+    },
+    {
+        quote: "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
+        author: "Jim Rohn",
+    },
+    {
+        quote: "Success usually comes to those who are too busy to be looking for it.",
+        author: "Henry David Thoreau",
+    },
+    {
+        quote: "The road to success and the road to failure are almost exactly the same.",
+        author: "Colin R. Davis",
+    },
+    {
+        quote: "I failed my way to success.",
+        author: "Thomas Edison",
+    },
+    {
+        quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+        author: "James Cameron",
+    },
+    {
+        quote: "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
+        author: "Jim Rohn",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The way to get started is to quit talking and begin doing.",
+        author: "Walt Disney",
+    },
+    {
+        quote: "Don't be afraid to give up the good to go for the great.",
+        author: "John D. Rockefeller",
+    },
+    {
+        quote: "I find that the harder I work, the more luck I seem to have.",
+        author: "Thomas Jefferson",
+    },
+    {
+        quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        author: "Albert Schweitzer",
+    },
+    {
+        quote: "The only place where success comes before work is in the dictionary.",
+        author: "Vidal Sassoon",
+    },
+    {
+        quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        author: "Roy T. Bennett",
+    },
+    {
+        quote: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        author: "Zig Ziglar",
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill",
+    },
+    {
+        quote: "The road to success and the road to failure are almost exactly the same.",
+        author: "Colin R. Davis",
+    },
+    {
+        quote: "I failed my way to success.",
+        author: "Thomas Edison",
+    },
+    {
+        quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+        author: "James Cameron",
+    },
+    {
+        quote: "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
+        author: "Jim Rohn",
+    },
+    {
+        quote: "Success usually comes to those who are too busy to be looking for it.",
+        author: "Henry David Thoreau",
+    },
+    {
+        quote: "The road to success and the road to failure are almost exactly the same.",
+        author: "Colin R. Davis",
+    },
 ];
