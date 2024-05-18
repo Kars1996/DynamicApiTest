@@ -13,8 +13,7 @@ interface ResponseProp {
     status?: number;
 }
 
-// const stats = getStats()
-const stats = "Depreciated"
+const stats = getStats()
 const key = process.env.TOKEN || "admin"
 
 const Data: ResponseProp = {
