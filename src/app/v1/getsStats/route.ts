@@ -27,7 +27,7 @@ export function GET(request: NextRequest) {
     const query = searchParams.get("key");
     
     if (query?.toLowerCase() === key) {
-        // succesStats()
+        succesStats()
         return new Response(
             JSON.stringify({ response: stats, status: 200 }),
             {
