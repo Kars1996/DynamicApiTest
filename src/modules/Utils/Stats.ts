@@ -20,7 +20,7 @@ export async function getStats() {
 async function updateSuccessfulRequestsInDatabase(value: number) {
     await sql`UPDATE stats SET successfulRequests = ${value} WHERE id = 1`;
 }
-
+ 
 async function updateFailedRequestsInDatabase(value: number) {
     await sql`UPDATE stats SET failedRequests = ${value} WHERE id = 1`;
 }

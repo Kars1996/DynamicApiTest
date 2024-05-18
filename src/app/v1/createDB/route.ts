@@ -14,8 +14,8 @@ interface ResponseProp {
     status?: number;
 }
 
-const stats = getStats()
-const key = process.env.TOKEN || "admin"
+const stats = getStats();
+const key = process.env.TOKEN || "admin";
 
 const Data: ResponseProp = {
     response: "Unatuhorised Request",
@@ -25,22 +25,33 @@ const Data: ResponseProp = {
 export async function GET(request: NextRequest) {
     const searchParams = request.nextUrl.searchParams;
     const query = searchParams.get("key");
-    
+
     if (query?.toLowerCase() === key) {
-        await createDb()
-        successStats()
-        return new Response(
-            JSON.stringify({ response: stats, status: 200 }),
-            {
-                headers: {
-                    "Content-Type": "application/json",
-                },
-            }
-        );
+        const a = await createDb();
+        successStats();
+        if (a) {
+            return new Response(
+                JSON.stringify({ response: "Created DB", status: 200 }),
+                {
+                    headers: {
+                        "Content-Type": "application/json",
+                    },
+                }
+            );
+        }
+        if (!a) {
+            return new Response(
+                JSON.stringify({ response: "Could not create DB", status: 200 }),
+                {
+                    headers: {
+                        "Content-Type": "application/json",
+                    },
+                }
+            );
+        }
     }
-    failedStats()
+    failedStats();
     return new Response(JSON.stringify(Data), {
-        
         headers: {
             "Content-Type": "application/json",
         },
