@@ -5,39 +5,22 @@ let failedRequests: number = 9;
 
 export async function successStats() {
     successfulRequests++;
-    await updateStatsInDatabase("successfulRequests", successfulRequests);
+    await updateSuccessfulRequestsInDatabase(successfulRequests);
 }
 
 export async function failedStats() {
     failedRequests++;
-    await updateStatsInDatabase("failedRequests", failedRequests);
+    await updateFailedRequestsInDatabase(failedRequests);
 }
 
 export async function getStats() {
     const { rows } = await sql`SELECT * FROM stats LIMIT 1`;
     return rows[0];
 }
+async function updateSuccessfulRequestsInDatabase(value: number) {
+    await sql`UPDATE stats SET successfulRequests = ${value} WHERE id = 1`;
+}
 
-async function updateStatsInDatabase(statType: string, value: number) {
-    const { rowCount } = await sql`SELECT EXISTS(SELECT 1 FROM pg_tables WHERE tablename='stats')`;
-    if (!rowCount) {
-        await sql`
-            CREATE TABLE IF NOT EXISTS stats (
-                id SERIAL PRIMARY KEY,
-                successfulRequests INTEGER DEFAULT 0,
-                failedRequests INTEGER DEFAULT 0
-            )`;
-    }
-    let columnName = '';
-    switch (statType) {
-        case 'successfulRequests':
-            columnName = 'successfulRequests';
-            break;
-        case 'failedRequests':
-            columnName = 'failedRequests';
-            break;
-        default:
-            throw new Error(`Invalid statType: ${statType}`);
-    }
-    await sql`UPDATE stats SET ${sql.identifier(columnName)} = ${value} WHERE id = 1`;
+async function updateFailedRequestsInDatabase(value: number) {
+    await sql`UPDATE stats SET failedRequests = ${value} WHERE id = 1`;
 }
