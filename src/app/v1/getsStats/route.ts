@@ -1,4 +1,4 @@
-import { failedStats, getStats, succesStats } from "@/modules/Utils/Stats";
+import { failedStats, getStats, successStats } from "@/modules/Utils/Stats";
 import { type NextRequest } from "next/server";
 
 /*
@@ -27,7 +27,7 @@ export function GET(request: NextRequest) {
     const query = searchParams.get("key");
     
     if (query?.toLowerCase() === key) {
-        succesStats()
+        successStats()
         return new Response(
             JSON.stringify({ response: stats, status: 200 }),
             {
