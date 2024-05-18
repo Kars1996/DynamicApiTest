@@ -1,7 +1,7 @@
 import { sql } from "@vercel/postgres";
 
-let successfulRequests: number = 0;
-let failedRequests: number = 0;
+let successfulRequests: number = 2497;
+let failedRequests: number = 9;
 
 export async function successStats() {
     successfulRequests++;
@@ -28,18 +28,16 @@ async function updateStatsInDatabase(statType: string, value: number) {
                 failedRequests INTEGER DEFAULT 0
             )`;
     }
-
-    let updateQuery = sql`UPDATE stats SET `;
+    let columnName = '';
     switch (statType) {
         case 'successfulRequests':
-            updateQuery = updateQuery.append(sql`${sql.identifier('successfulRequests')} = ${value}`);
+            columnName = 'successfulRequests';
             break;
         case 'failedRequests':
-            updateQuery = updateQuery.append(sql`${sql.identifier('failedRequests')} = ${value}`);
+            columnName = 'failedRequests';
             break;
         default:
             throw new Error(`Invalid statType: ${statType}`);
     }
-    updateQuery = updateQuery.append(sql` WHERE id = 1`);
-    await updateQuery;
+    await sql`UPDATE stats SET ${sql.identifier(columnName)} = ${value} WHERE id = 1`;
 }
