@@ -13,7 +13,8 @@ interface ResponseProp {
     status?: number;
 }
 
-const stats = getStats()
+// const stats = getStats()
+const stats = "Depreciated"
 const key = process.env.TOKEN || "admin"
 
 const Data: ResponseProp = {
@@ -26,7 +27,7 @@ export function GET(request: NextRequest) {
     const query = searchParams.get("key");
     
     if (query?.toLowerCase() === key) {
-        succesStats()
+        // succesStats()
         return new Response(
             JSON.stringify({ response: stats, status: 200 }),
             {

@@ -13,7 +13,7 @@ export const dynamic = 'force-dynamic'
 export async function GET(request: Request) {
     const random =  Math.floor(Math.random() * quoteData.length);
     const quote = quoteData[random]
-    succesStats()
+    // succesStats()
     return new Response(JSON.stringify(quote), {
         headers: {
             "Content-Type": "application/json",
