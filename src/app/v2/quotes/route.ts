@@ -1,5 +1,5 @@
 import { NextRequest } from "next/server";
-import { quoteData } from "@/data";
+import { quoteData } from "@/data/quotes";
 
 /*
 Copyright © 2024 Kars (github.com/kars1996)

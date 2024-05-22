@@ -1,4 +1,4 @@
-import { quoteData } from "@/data";
+import { quoteData } from "@/data/quotes";
 import { successStats } from "@/modules/Utils/Stats";
 
 /*
@@ -12,7 +12,7 @@ export const dynamic = 'force-dynamic'
 
 export async function GET(request: Request) {
     const quote = quoteData
-    successStats()
+    // successStats()
     return new Response(JSON.stringify(quote), {
         headers: {
             "Content-Type": "application/json",

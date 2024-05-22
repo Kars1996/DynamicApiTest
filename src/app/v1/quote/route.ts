@@ -1,4 +1,4 @@
-import { quoteData } from "@/data";
+import { quoteData } from "@/data/quotes";
 import { successStats } from "@/modules/Utils/Stats";
 
 /*

@@ -28,7 +28,7 @@ export async function GET(request: NextRequest) {
 
     if (query?.toLowerCase() === key) {
         const a = await createDb();
-        successStats();
+        // successStats();
         if (a) {
             return new Response(
                 JSON.stringify({ response: "Created DB", status: 200 }),
@@ -50,7 +50,7 @@ export async function GET(request: NextRequest) {
             );
         }
     }
-    failedStats();
+    // failedStats();
     return new Response(JSON.stringify(Data), {
         headers: {
             "Content-Type": "application/json",

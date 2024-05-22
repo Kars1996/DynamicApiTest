@@ -1,5 +1,6 @@
-import { failedStats, getStats, successStats } from "@/modules/Utils/Stats";
+export const dynamic = "force-dynamic";
 import { type NextRequest } from "next/server";
+import { gifData } from "@/data/gifs";
 
 /*
 Copyright © 2024 Kars (github.com/kars1996)
@@ -13,9 +14,7 @@ interface ResponseProp {
     status?: number;
 }
 
-// const stats = getStats()
-const stats = "highkey dereciated gang lol"
-const key = process.env.TOKEN || "admin"
+const key = process.env.LEON_TOKEN || "leon";
 
 const Data: ResponseProp = {
     response: "Unatuhorised Request",
@@ -25,21 +24,19 @@ const Data: ResponseProp = {
 export function GET(request: NextRequest) {
     const searchParams = request.nextUrl.searchParams;
     const query = searchParams.get("key");
-    
+    const r1 = gifData.filter((q) => q.category.toLowerCase().includes("kill"));
+    const r2 = Math.floor(Math.random() * r1.length);
+    const r3 = r1[r2];
+
     if (query?.toLowerCase() === key) {
-        // successStats()
-        return new Response(
-            JSON.stringify({ response: stats, status: 200 }),
-            {
-                headers: {
-                    "Content-Type": "application/json",
-                },
-            }
-        );
+        return new Response(JSON.stringify({ response: r3 }), {
+            status: 200,
+            headers: {
+                "Content-Type": "application/json",
+            },
+        });
     }
-    // failedStats()
     return new Response(JSON.stringify(Data), {
-        
         headers: {
             "Content-Type": "application/json",
         },
